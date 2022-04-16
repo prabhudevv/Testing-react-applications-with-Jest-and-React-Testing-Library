@@ -1,0 +1,25 @@
+{
+  "name": "testing-react-applications-with-jest-and-react-testing-library",
+  "version": "1.0.0",
+  "description": "Testing react applications with Jest and React Testing Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabhudevv/Testing-react-applications-with-Jest-and-React-Testing-Library.git"
+  },
+  "keywords": [
+    "#testing"
+  ],
+  "author": "Prabhudev Vatnal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prabhudevv/Testing-react-applications-with-Jest-and-React-Testing-Library/issues"
+  },
+  "homepage": "https://github.com/prabhudevv/Testing-react-applications-with-Jest-and-React-Testing-Library#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
